@@ -1,2 +1,1 @@
-# automated-market-intelligence-bot
-A Python-based scraping tool to collect financial news and export to Excel.
+# Market Intelligence Bot A web scraping tool built with Python (BeautifulSoup) to collect financial news data and export it to structured Excel files for analysis.
